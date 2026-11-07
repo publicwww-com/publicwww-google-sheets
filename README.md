@@ -1,6 +1,6 @@
 # PublicWWW for Google Sheets
 
-Search the source code (HTML, JavaScript, CSS) of hundreds of millions of websites
+Search the source code (HTML, JavaScript, CSS) of web pages
 from a spreadsheet: which sites load a script, carry a tracking id, a widget or any
 other fragment of code - ranked by popularity.
 
